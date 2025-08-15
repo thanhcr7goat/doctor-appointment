@@ -20,11 +20,11 @@ const About = () => {
           <div className='w-full lg:w-1/2 xl:w-[670px] order-2 lg:order-2'>
             <h2 className='heading'>Tự hào là một trong số những bác sĩ xuất sắc nhất</h2>
             <p className='text__para'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, accusantium libero. Eligendi ad laudantium expedita dolore molestiae voluptatem a officia vel totam? Placeat dolores fuga distinctio doloremque quia asperiores numquam!
+              Với nhiều năm kinh nghiệm và trình độ chuyên môn vững vàng, chúng tôi luôn tận tâm mang đến dịch vụ chăm sóc sức khỏe tốt nhất cho từng bệnh nhân. Chất lượng điều trị, thái độ phục vụ và sự tận tụy của đội ngũ bác sĩ chính là niềm tự hào lớn nhất của chúng tôi.
             </p>
 
             <p className='text__para mt-[30px]'>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam repellat minima qui iure quis, culpa unde obcaecati assumenda sunt mollitia ipsa, nemo porro fugit ratione doloribus reprehenderit, hic provident quas!
+              Chúng tôi cam kết không ngừng học hỏi, nâng cao kỹ năng và áp dụng công nghệ y tế tiên tiến để mang lại hiệu quả khám chữa bệnh tối ưu. Sự hài lòng, tin tưởng và sức khỏe của bệnh nhân luôn là mục tiêu hàng đầu mà chúng tôi hướng tới mỗi ngày.
             </p>
 
             <Link to='/'>

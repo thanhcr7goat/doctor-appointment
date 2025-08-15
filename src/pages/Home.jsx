@@ -30,12 +30,12 @@ const Home = () => {
             {/* Content */}
             <div>
               <div className='lg:w-[570px]'>
-                <h1 className='text-[36px] leading-[46px] text-headingColor font-[800] md:text[60px] md:leading-[70px]'>
+                <h1 className='text-[36px] leading-[46px] text-headingColor font-[800] md:text[60px] md:leading-[60px]'>
                   Chúng tôi luôn giúp mọi người sống khoẻ và tốt hơn
                 </h1>
 
                 <p className='text__para'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio repellendus quidem eveniet maxime omnis assumenda ipsa asperiores vitae, ipsam repellat consectetur molestias necessitatibus et, cupiditate deserunt. Placeat atque perspiciatis quas.
+                  Chúng tôi cam kết mang đến các dịch vụ y tế chất lượng cao, được thực hiện bởi đội ngũ bác sĩ giàu kinh nghiệm cùng trang thiết bị hiện đại. Mỗi bệnh nhân đều được chăm sóc tận tình, chu đáo và cá nhân hóa để đảm bảo hiệu quả điều trị tối ưu và sự hài lòng tuyệt đối.
                 </p>
 
                 <button className='btn'>Đặt lịch khám</button>
@@ -89,7 +89,7 @@ const Home = () => {
           <div className='lg:w-[470px] mx-auto'>
             <h2 className='heading text-center'>Cung cấp những dịch vụ tốt nhất</h2>
             <p className='text__para text-center'>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non eaque molestiae doloremque eius pariatur reiciendis quas excepturi provident quisquam omnis similique inventore delectus at dolore earum hic, nostrum corrupti voluptate!
+              Chúng tôi cam kết mang đến các dịch vụ y tế chất lượng cao, được thực hiện bởi đội ngũ bác sĩ giàu kinh nghiệm cùng trang thiết bị hiện đại. Mỗi bệnh nhân đều được chăm sóc tận tình, chu đáo và cá nhân hóa để đảm bảo hiệu quả điều trị tối ưu và sự hài lòng tuyệt đối.
             </p>
           </div>
 
@@ -105,7 +105,7 @@ const Home = () => {
                 </h2>
 
                 <p className='text-[16px] leading-7 text-textColor font-[400] mt-4 text-center'>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, accusamus debitis. Mollitia deleniti, officiis ipsum harum cum impedit tenetur perferendis nam natus minus porro debitis inventore repellat dignissimos quam nulla!
+                  Dễ dàng tìm kiếm và lựa chọn bác sĩ phù hợp với nhu cầu khám chữa bệnh của bạn, dựa trên chuyên khoa, kinh nghiệm, đánh giá và cơ sở y tế uy tín
                 </p>
 
                 <Link to='/doctor' className='w-[44px] h-[44px] rounded-full border-2 border-solid border-[#aeb0b5] mt-[30px] mx-auto flex items-center justify-center group hover:bg-primaryColor hover:border-none' >
@@ -125,7 +125,7 @@ const Home = () => {
                 </h2>
 
                 <p className='text-[16px] leading-7 text-textColor font-[400] mt-4 text-center'>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, accusamus debitis. Mollitia deleniti, officiis ipsum harum cum impedit tenetur perferendis nam natus minus porro debitis inventore repellat dignissimos quam nulla!
+                  Nhanh chóng tra cứu các cơ sở y tế gần bạn nhất, xem vị trí trên bản đồ, thông tin liên hệ, giờ làm việc và hướng dẫn đường đi chi tiết, thuận tiện, tiết kiệm thời gian.
                 </p>
 
                 <Link to='/doctor' className='w-[44px] h-[44px] rounded-full border-2 border-solid border-[#aeb0b5] mt-[30px] mx-auto flex items-center justify-center group hover:bg-primaryColor hover:border-none' >
@@ -145,7 +145,7 @@ const Home = () => {
                 </h2>
 
                 <p className='text-[16px] leading-7 text-textColor font-[400] mt-4 text-center'>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, accusamus debitis. Mollitia deleniti, officiis ipsum harum cum impedit tenetur perferendis nam natus minus porro debitis inventore repellat dignissimos quam nulla!
+                  Chủ động đặt lịch khám trực tuyến mọi lúc mọi nơi, chọn thời gian và bác sĩ mong muốn, nhận xác nhận nhanh chóng cùng nhắc lịch tự động để không bỏ lỡ cuộc hẹn.
                 </p>
 
                 <Link to='/doctor' className='w-[44px] h-[44px] rounded-full border-2 border-solid border-[#aeb0b5] mt-[30px] mx-auto flex items-center justify-center group hover:bg-primaryColor hover:border-none' >
@@ -169,7 +169,7 @@ const Home = () => {
               Các dịch vụ y tế của chúng tôi
             </h2>
             <p className='text__para text-center'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolores rem in iure tempore facilis ex delectus adipisci officia soluta similique harum quia nesciunt velit non totam animi, sunt laboriosam?
+              Chúng tôi cung cấp hệ thống dịch vụ y tế toàn diện, đáp ứng nhu cầu chăm sóc sức khỏe của mọi đối tượng. Từ chẩn đoán, điều trị đến phục hồi, mỗi dịch vụ đều được thực hiện bởi đội ngũ chuyên gia giàu kinh nghiệm, trang thiết bị hiện đại và quy trình chuyên nghiệp, mang lại sự an tâm và hài lòng tuyệt đối cho bệnh nhân.
             </p>
           </div>
           
@@ -220,7 +220,7 @@ const Home = () => {
           <div className='lg:w-[470px] mx-auto'>
             <h2 className='heading text-center'>Những bác sĩ tốt nhất của chúng tôi</h2>
             <p className='text__para text-center'>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non eaque molestiae doloremque eius pariatur reiciendis quas excepturi provident quisquam omnis similique inventore delectus at dolore earum hic, nostrum corrupti voluptate!
+              Đội ngũ bác sĩ của chúng tôi gồm những chuyên gia hàng đầu trong nhiều lĩnh vực y khoa, giàu kinh nghiệm và luôn tận tâm với bệnh nhân. Họ không ngừng học hỏi, cập nhật kiến thức và áp dụng công nghệ tiên tiến để mang lại kết quả điều trị tốt nhất cùng trải nghiệm chăm sóc sức khỏe toàn diện.
             </p>
           </div>
 
@@ -255,7 +255,7 @@ const Home = () => {
           <div className='lg:w-[470px] mx-auto'>
             <h2 className='heading text-center'>Khách hàng nói gì về chúng tôi</h2>
             <p className='text__para text-center'>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non eaque molestiae doloremque eius pariatur reiciendis quas excepturi provident quisquam omnis similique inventore delectus at dolore earum hic, nostrum corrupti voluptate!
+              Chúng tôi luôn tự hào khi nhận được những phản hồi tích cực từ khách hàng về chất lượng dịch vụ, sự tận tâm của đội ngũ y bác sĩ và trải nghiệm chăm sóc toàn diện. Sự tin tưởng và hài lòng của khách hàng chính là động lực để chúng tôi không ngừng nâng cao chất lượng và mang đến những giá trị tốt nhất.
             </p>
           </div>
 

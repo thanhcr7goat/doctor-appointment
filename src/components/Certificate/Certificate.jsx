@@ -25,11 +25,11 @@ const Certificate = () => {
         }
       }}>
         <SwiperSlide>
-          <div className='py-[30px] px-5 rounded-3xl'>
+          <div className='py-[30px] px-5 rounded-3xl hover:bg-primaryColor transition-all duration-300 delay-100 group'>
             <div className='flex items-center gap-[13px]'>
               <img src={patientAvatar} alt="" />
               <div>
-                <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor'>
+                <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor group-hover:text-white'>
                   Võ Xuân Thành
                 </h4>
 
@@ -43,18 +43,18 @@ const Certificate = () => {
               </div>
             </div>
 
-            <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>
+            <p className='text-[16px] leading-7 mt-4 text-textColor font-[400] group-hover:text-white'>
               Bác sĩ rất tận tâm, giải thích rõ ràng và luôn lắng nghe. Tôi cảm thấy yên tâm và tin tưởng tuyệt đối
             </p>
           </div>
         </SwiperSlide>
 
         <SwiperSlide>
-          <div className='py-[30px] px-5 rounded-3xl'>
+          <div className='py-[30px] px-5 rounded-3xl hover:bg-primaryColor transition-all duration-300 delay-100 group'>
             <div className='flex items-center gap-[13px]'>
               <img src={patientAvatar} alt="" />
               <div>
-                <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor'>
+                <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor group-hover:text-white'>
                   Lê Văn A
                 </h4>
 
@@ -68,18 +68,18 @@ const Certificate = () => {
               </div>
             </div>
 
-            <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>
+            <p className='text-[16px] leading-7 mt-4 text-textColor font-[400] group-hover:text-white'>
               Quy trình đặt lịch nhanh chóng, dịch vụ chuyên nghiệp. Tôi hài lòng từ khâu tiếp nhận đến khi điều trị
             </p>
           </div>
         </SwiperSlide>
 
         <SwiperSlide>
-          <div className='py-[30px] px-5 rounded-3xl'>
+          <div className='py-[30px] px-5 rounded-3xl hover:bg-primaryColor transition-all duration-300 delay-100 group'>
             <div className='flex items-center gap-[13px]'>
               <img src={patientAvatar} alt="" />
               <div>
-                <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor'>
+                <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor group-hover:text-white'>
                   Nguyễn Văn B
                 </h4>
 
@@ -93,7 +93,7 @@ const Certificate = () => {
               </div>
             </div>
 
-            <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>
+            <p className='text-[16px] leading-7 mt-4 text-textColor font-[400] group-hover:text-white'>
               Hệ thống đặt lịch trực tuyến rất tiện lợi, giúp tôi tiết kiệm thời gian và chủ động chọn giờ khám
             </p>
           </div>

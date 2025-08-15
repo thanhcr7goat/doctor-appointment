@@ -10,11 +10,11 @@ const navLinks= [
     display: 'Trang chủ'
   },
   {
-    path: '/doctors',
+    path: '/doctor',
     display: 'Tìm bác sĩ'
   },
   {
-    path: '/services',
+    path: '/service',
     display: 'Dịch vụ'
   },
   {
@@ -89,7 +89,7 @@ const Header = () => {
           {/* End Avatar */}
 
           {/* Button login */}
-          <Link to='/login'>
+          <Link to='/signin'>
             <button className='bg-primaryColor py-2 px-6 text-white font-[600] h-[44px] flex items-center justify-center rounded-[50px]'>
               Login
             </button>
